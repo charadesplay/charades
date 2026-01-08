@@ -1,5 +1,0 @@
-<Files "apple-app-site-association.json">
-  ForceType application/json
-</Files>
-
-RedirectMatch permanent ^/.well-known/apple-app-site-association$ /.well-known/apple-app-site-association.json
