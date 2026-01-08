@@ -1,1 +1,14 @@
-
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "7GYJBLMF65.ai.charades.deck.difficulty.AI-Charades" ],
+        "components": [
+          {
+            "/": "*"
+          }
+        ]
+      }
+    ]
+  }
+}
